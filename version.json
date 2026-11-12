@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "url": "https://media.githubusercontent.com/media/1n4mat1k/recognition/main/model2_flowers_catsdogs.tflite",
+  "url": "https://github.com/1n4mat1k/recognition/raw/refs/heads/main/model2_flowers_catsdogs.tflite",
   "fileName": "model2_flowers_catsdogs.tflite",
   "labels": ["daisy", "dandelion", "roses", "sunflowers", "tulips", "cats", "dogs"]
 }
