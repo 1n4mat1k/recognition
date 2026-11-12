@@ -1,4 +1,5 @@
 {
-    "version": 1,
-    "url": "https://gitflic.ru/project/drew_prog/recognition/blob/raw?file=model1_flowers.tfliten&branch=master"
+  "version": 1,
+  "url": "https://github.com/1n4mat1k/recognition/releases/download/v1/model1_flowers.tflite",
+  "fileName": "model1_flowers.tflite"
 }
